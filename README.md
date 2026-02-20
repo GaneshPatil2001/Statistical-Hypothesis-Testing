@@ -5,6 +5,9 @@ The goal of this project is to build strong fundamentals in Inferential Statisti
  1. Z-Test:-   One Sample Mean Test
                Large Sample Test
                Proportion Test
+ 2. T-Test : - One Sample t- Test(Two-tailed, Right-Tailed,Left-Tailed)
+               Two sample Independent
+               paired t-Test
 
 # Statistical Concepts Applied
   1. Null & Alternative Hypothesis
