@@ -8,6 +8,7 @@ The goal of this project is to build strong fundamentals in Inferential Statisti
  2. T-Test : - One Sample t- Test(Two-tailed, Right-Tailed,Left-Tailed)
                Two sample Independent
                paired t-Test
+ 3. Chi Square Test : 
 
 # Statistical Concepts Applied
   1. Null & Alternative Hypothesis
